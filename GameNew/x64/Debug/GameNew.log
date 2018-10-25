@@ -1,0 +1,3 @@
+﻿  LowLevelRenderer.cpp
+a:\c++\glfw\gamenew\gamenew\src\lowlevelrenderer.cpp(75): warning C4305: 'argument' : troncation de 'double' à 'GLfloat'
+  GameNew.vcxproj -> A:\C++\GLFW\GameNew\x64\Debug\GameNew.exe

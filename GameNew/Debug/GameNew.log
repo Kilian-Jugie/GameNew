@@ -1,0 +1,18 @@
+﻿main.obj : error LNK2019: symbole externe non résolu _glfwInit référencé dans la fonction _main
+main.obj : error LNK2019: symbole externe non résolu _glfwTerminate référencé dans la fonction _main
+main.obj : error LNK2019: symbole externe non résolu _glfwSetErrorCallback référencé dans la fonction _main
+main.obj : error LNK2019: symbole externe non résolu _glfwWindowHint référencé dans la fonction _main
+main.obj : error LNK2019: symbole externe non résolu _glfwCreateWindow référencé dans la fonction _main
+main.obj : error LNK2019: symbole externe non résolu _glfwDestroyWindow référencé dans la fonction _main
+main.obj : error LNK2019: symbole externe non résolu _glfwWindowShouldClose référencé dans la fonction _main
+main.obj : error LNK2019: symbole externe non résolu _glfwSetWindowShouldClose référencé dans la fonction "void __cdecl key_callback(struct GLFWwindow *,int,int,int,int)" (?key_callback@@YAXPAUGLFWwindow@@HHHH@Z)
+main.obj : error LNK2019: symbole externe non résolu _glfwGetFramebufferSize référencé dans la fonction _main
+main.obj : error LNK2019: symbole externe non résolu _glfwPollEvents référencé dans la fonction _main
+main.obj : error LNK2019: symbole externe non résolu _glfwSetKeyCallback référencé dans la fonction _main
+main.obj : error LNK2019: symbole externe non résolu _glfwGetTime référencé dans la fonction _main
+main.obj : error LNK2019: symbole externe non résolu _glfwMakeContextCurrent référencé dans la fonction _main
+main.obj : error LNK2019: symbole externe non résolu _glfwSwapBuffers référencé dans la fonction _main
+main.obj : error LNK2019: symbole externe non résolu _glfwSwapInterval référencé dans la fonction _main
+main.obj : error LNK2019: symbole externe non résolu _glfwGetProcAddress référencé dans la fonction _main
+glfw3dll.lib : warning LNK4272: type d'ordinateur bibliothèque 'x64' en conflit avec le type d'ordinateur cible 'x86'
+A:\C++\GLFW\GameNew\Debug\GameNew.exe : fatal error LNK1120: 16 externes non résolus
